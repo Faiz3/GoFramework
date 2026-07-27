@@ -1,6 +1,9 @@
 # GoFramework
 A Go framework inspired by Laravel, built on GoFiber.
 
+`Notes!`
+> You can to try install [flash-cli](https://github.com/faiz3/flash-cli.git), for create new project Go.
+
 ## Directory Structure
 
 ```
